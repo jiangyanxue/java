@@ -1,0 +1,4 @@
+数据库文件在 UI文件夹的App_Data里，有SPM.mdf 和SPM.ldf 附加sqlserver数据库即可
+（注意sqlserver版本要求sqlserver2014及以上才能打开）
+
+登录所需的用户名密码在表user_info中

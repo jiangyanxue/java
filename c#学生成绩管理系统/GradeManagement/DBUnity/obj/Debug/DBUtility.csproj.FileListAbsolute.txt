@@ -1,0 +1,15 @@
+C:\Users\姜\Desktop\GradeManagement\DBUnity\bin\Debug\DBUnity.dll
+C:\Users\姜\Desktop\GradeManagement\DBUnity\bin\Debug\DBUnity.pdb
+C:\Users\姜\Desktop\GradeManagement\DBUnity\obj\Debug\DBUnity.dll
+C:\Users\姜\Desktop\GradeManagement\DBUnity\obj\Debug\DBUnity.pdb
+C:\Users\姜\Desktop\GradeManagement\DBUnity\obj\Debug\DBUtility.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\GradeManagement\DBUnity\bin\Debug\DBUnity.dll
+C:\Users\Administrator\Desktop\GradeManagement\DBUnity\bin\Debug\DBUnity.pdb
+C:\Users\Administrator\Desktop\GradeManagement\DBUnity\obj\Debug\DBUnity.dll
+C:\Users\Administrator\Desktop\GradeManagement\DBUnity\obj\Debug\DBUnity.pdb
+C:\Users\Administrator\Desktop\GradeManagement\DBUnity\obj\Debug\DBUtility.csprojResolveAssemblyReference.cache
+H:\GradeManagement\DBUnity\bin\Debug\DBUnity.dll
+H:\GradeManagement\DBUnity\bin\Debug\DBUnity.pdb
+H:\GradeManagement\DBUnity\obj\Debug\DBUnity.dll
+H:\GradeManagement\DBUnity\obj\Debug\DBUnity.pdb
+H:\GradeManagement\DBUnity\obj\Debug\DBUtility.csprojResolveAssemblyReference.cache
